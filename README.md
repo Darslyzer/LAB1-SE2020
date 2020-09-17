@@ -1,2 +1,2 @@
 # Lab1-SE2020
-Algoritmo Genético para la generación de melodias
+Algoritmo Genético para la generación de melodías
